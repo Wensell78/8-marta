@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    transition: transform 3s ease;
+}
+.box:hover{
+    transform: rotate(1800deg);
+}
