@@ -1,6 +1,7 @@
 body{
     display: flex;
     justify-content: center;
+    background-image: url(https://img-fotki.yandex.ru/get/105284/37009792.2d3/0_ca26e_d90d184d_orig);
 }
 .box{
     width: 100%;
